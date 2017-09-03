@@ -1,0 +1,156 @@
+html, body, .main {
+    height: 96%;
+}
+
+.main .card-content h6 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#main-logo {
+    margin-left: 24px;
+}
+
+/* FIX for search bar */
+#search {
+    height: 64px !important; /* or height of nav */
+}
+
+#search {
+    min-width: 16em;
+}
+
+#nav-mobile > li {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+.card-image {
+    padding: 4px;
+}
+
+.plant-card {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.main a {
+    color: black;
+}
+
+.topcards {
+    margin: 10px;
+}
+
+.card-alert {
+    min-height: 100px;
+}
+
+.alert-circle {
+    display: inline-block;
+    width: 60px;
+    white-space: nowrap;
+    border-radius: 100px;
+    vertical-align: top;
+    position: relative;
+    top: -5px;
+    left: -2px;
+    line-height: 20px;
+}
+
+img.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.hoverable {
+    background: grey;
+}
+
+.card-circle {
+    width: 50px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.turbinename {
+    font-size: 25px;
+    font-weight: 400;
+    vertical-align: top;
+    top: 15px;
+    left: 15px;
+}
+
+.turbinecard .content1 {
+    position: relative;
+    padding: 12px;
+    border-color: #c2c0c2;
+    border-bottom: 1px solid;
+
+}
+
+.turbinecard .content2 {
+    padding: 20px;
+    position: relative;
+    height: 140px;
+}
+
+.date {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 13px;
+}
+
+.urgent {
+    padding: 10px;
+    position: absolute;
+    top: 35px;
+    left: 10px;
+}
+
+.total {
+    position: absolute;
+    top: 90px;
+    left: 15px;
+    font-size: 30px;
+    font-weight: 300;
+
+}
+
+.turbinecard .content3 {
+    padding: 10px;
+    position: relative;
+    height: 120px;
+}
+
+.content4 {
+    padding: 10px !important;
+}
+
+.value {
+
+    font-size: 13px;
+    padding: 10px;
+
+}
+
+.data {
+    padding: 10px;
+}
+
+.noti {
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.num {
+    color: white;
+    font-weight: 400;
+    font-size: 28px;
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+    padding-right: 16px !important;
+}
