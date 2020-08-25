@@ -5,5 +5,5 @@ Group members:
 - [Jatin Panjwani](https://github.com/jatin33)
 - [Chintan Acharya](https://github.com/ChintanAcharya)
 - [Dishita Badarshahi](https://github.com/DishitaBadarshahi)
-- [Darshan Dalal](https://github.com/darshan010)
+- [Darshan Dalal](https://github.com/darshan019)
 - Shivam Patil
